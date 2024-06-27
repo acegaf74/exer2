@@ -1,0 +1,12 @@
+header {
+    display: flex;
+}
+
+footer {
+    text-align: center;
+}
+
+.h-title {
+    margin-left: 10px;
+    width: 100%;
+}
